@@ -11,62 +11,62 @@ Ce projet consiste à analyser les performances commerciales de l'entreprise fic
 L'objectif est de construire un tableau de bord interactif permettant à la direction de suivre rapidement l'activité commerciale et d'identifier les leviers de performance.
 
  ## Objectifs du projet
-    ### Construire un dashboard clair et interactif
+   ### Construire un dashboard clair et interactif
 
-        #### Suivre les indicateurs clés :
+   #### Suivre les indicateurs clés :
 
             - Chiffre d'affaires
             - Marge
             - Nombre de commandes
             - Panier moyen
-        #### Analyser les ventes :
+   #### Analyser les ventes :
 
             - Par région
             - Par catégorie
             - Dans le temps
-        #### Faciliter la prise de décision grâce à des visualisations dynamiques
+   #### Faciliter la prise de décision grâce à des visualisations dynamiques
 
  ## Outils utilisés
-    #### Power BI Desktop
+   #### Power BI Desktop
             - Modélisation des données
             - Création des visualisations
             - Construction des dashboards
-    #### Power Query
+   #### Power Query
             - Nettoyage des données
             - Correction des types
             - Gestion des incohérences
-    #### DAX
+   #### DAX
             - Création des KPI
             - Mesures calculées
             - Indicateurs métiers
 
  ## Méthodologie
 
-    ### Importation des données 
+   ### Importation des données 
         Chargement des données dans Power BI.
 
-    ### Nettoyage 
+   ### Nettoyage 
         - Vérification des types de données
         - Correction des formats 
         - Traitement des incohérences
 
-    ### Modélisation 
+   ### Modélisation 
         - Création des mesures DAX :
         - Chiffre d'affaires
         - Marge
         - Nombre de commandes
         - Panier moyen
 
-    ### Design
+   ### Design
         - Création d'une identité visuelle cohérente :
         - Couleurs personnalisées
         - Cartes KPI
         - Fond graphique
 
-    ### Visualisation
+   ### Visualisation
         Création des graphiques et tableaux de bord.
 
-    ### Interactivité
+   ### Interactivité
         Ajout de filtres :
             - Année
             - Région
@@ -76,13 +76,13 @@ L'objectif est de construire un tableau de bord interactif permettant à la dire
  ## Dashboard 1 : Vue d'ensemble
     images/vue-ensemble.png
 
-    ### Indicateurs clés
+   ### Indicateurs clés
         - Chiffre d'affaires
         - Marge totale
         - Commandes
         - Panier moyen 
 
-    ### Analyses proposées
+   ### Analyses proposées
         - Répartition des ventes par région
         - Évolution du chiffre d'affaires
         - Top catégories
@@ -90,7 +90,7 @@ L'objectif est de construire un tableau de bord interactif permettant à la dire
  ## Dashboard 2 : Analyse détaillée
     images/analyse-detaillee.png
 
-    ### Analyses proposées
+   ### Analyses proposées
         - Top produits vendus
         - Répartition du chiffre d'affaires par catégorie
         - Analyse des modes de livraison
